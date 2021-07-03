@@ -1,0 +1,11 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+		"layer": "CUTOUT",
+        "textures": [
+            "gregtech:blocks/casings/coils/machine_coil_naquadah-ctm"
+        ],
+		"extra": { "connect_inside": true }
+    }
+}
